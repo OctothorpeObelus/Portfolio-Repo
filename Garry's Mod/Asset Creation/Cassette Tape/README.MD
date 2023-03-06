@@ -16,19 +16,19 @@ As I am unsure of the copyright/license on some of this software, the following 
 ![A screenshot of the early authoring tool, showing an audio cassette tape label texture with the label "#013, Deep Purple, Space Truckin'"](https://media.discordapp.net/attachments/966067005117587457/1051640034421395559/image.png?width=1380&height=671 "First successful run of the program, outputting a png file")
 
 ## Tape models
-LOD0
+### LOD0
 <br>
 ![An audio cassette tape with the label "#013, Deep Purple, Space Truckin'"](https://media.discordapp.net/attachments/966067005117587457/1051794875722514463/image.png "Full detail model of the cassette tape")
 <br>
 This version of the model has the fully detailed mesh and more complex inner geometry to show off to the player.
 
-LOD1
+### LOD1
 <br>
 ![An audio cassette tape with the label "#013, Deep Purple, Space Truckin'"](https://media.discordapp.net/attachments/966067005117587457/1051795057503645767/image.png "The first step down in model detail")
 <br>
 This is the first reduction of detail in the model, displayed at around 15 feet away from it. It removes much of the geometry and is just a rectangular prism with rounded edges. The texure does the heav lifting of disguising its reduced state.
 
-LOD2
+### LOD2
 <br>
 ![An audio cassette tape texture projected onto a rectangular prism, with the label "#013, Deep Purple, Space Truckin'"](https://media.discordapp.net/attachments/966067005117587457/1051795057855955004/image.png "The lowest detail model, shown at great distance")
 <br>

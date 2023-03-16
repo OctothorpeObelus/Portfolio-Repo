@@ -6,6 +6,7 @@
 [Lambda Bot](https://github.com/OctothorpeObelus/Lambda-Bot) - personal Discord bot for friends (Actively Developed) <br>
 [Garry's Mod Block Game](https://github.com/OctothorpeObelus/gmod-block-game) (Unfinished) <br>
 [SlashCo](https://github.com/Mantibro/SlashCo) - Garry's Mod Gamemode
+  - This was made with a small group of friends, and I wrote the backbone/framework of the gamemode
   - This repository has moved over to Mantibro's account, and as such my original contributions are no longer marked as mine, but as his. The files I created are:
       - [`cl_headbob.lua`](https://github.com/Mantibro/SlashCo/blob/main/gamemodes/slashco/gamemode/cl_headbob.lua)
       - [`globals.lua`](https://github.com/Mantibro/SlashCo/blob/main/gamemodes/slashco/gamemode/globals.lua)

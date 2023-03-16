@@ -4,4 +4,4 @@ This uses the positions of the wheels of the vehicle to visually compute the pos
 of old Japanese-style Bell Crank suspension, commonly found on their older tanks from the 1930's.
 
 ## Videos and Screenshots
-[![Bell crank suspension in motion](https://cdn.discordapp.com/attachments/1014416568404418590/1085788769355051049/image.png)]((https://cdn.discordapp.com/attachments/962250155162210344/989438653229060197/Moments-clip-from-Jun-23-2022.mp4))
+[![Bell crank suspension in motion](https://cdn.discordapp.com/attachments/1014416568404418590/1085788769355051049/image.png)](https://cdn.discordapp.com/attachments/962250155162210344/989438653229060197/Moments-clip-from-Jun-23-2022.mp4)

@@ -3,3 +3,10 @@ This was created on and off in the time frame of a weekend or so, and was done f
 <br>
 <br>
 As this is moved here for the sake of display, the `require()` functions will not point accurately to filepaths, but will have the same filename.
+
+## Screenshots and Videos
+(Video)
+[![Direct hit damage and critical hit demonstration](https://cdn.discordapp.com/attachments/751522830482407485/1085772923345834034/image.png)](https://cdn.discordapp.com/attachments/294283189541928961/997794203188854825/Moments-clip-from-Jul-16-2022.mp4)
+
+(Video)
+[![Direct hit damage and splash damage demonstration with rocket jumping](https://cdn.discordapp.com/attachments/751522830482407485/1085773235779534858/image.png)](https://cdn.discordapp.com/attachments/294283189541928961/997794204044505128/Moments-clip-from-Jul-16-2022.mp4)
